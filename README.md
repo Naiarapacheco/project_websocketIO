@@ -18,14 +18,19 @@ Bootstrap – estilização básica
 
     Clone o repositório
 
-        `git clone https://github.com/Naiarapacheco/project_websocketIO.git
+        git clone https://github.com/Naiarapacheco/project_websocketIO.git
 
     Instale as dependências
 
-        `npm install
+        cd project_websocketIO
+        npm install
 
     Inicie o servidor
 
-        `npm run dev
+        npm run dev
+
+    Acesse o navegador
+    
+        http://localhost:3000/
 
 Certifique-se de ter uma instância do MongoDB ativa ou atualize a string de conexão no arquivo dbConnect.js.
