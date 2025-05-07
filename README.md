@@ -26,6 +26,6 @@ Bootstrap – Estilização básica
 
     Inicie o servidor
 
-        `npm start
+        `npm run dev
 
 Certifique-se de ter uma instância do MongoDB ativa ou atualize a string de conexão no arquivo dbConnect.js.
