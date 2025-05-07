@@ -2,17 +2,17 @@
 
 Este projeto é uma aplicação web de edição de documentos em tempo real. Ele permite que múltiplos usuários editem simultaneamente textos em diferentes documentos, com sincronização instantânea via WebSockets e persistência no MongoDB.
 
-## Tecnologias Utilizadas
+## Tecnologias utilizadas
 
-Node.js + Express – Servidor HTTP
+Node.js + express – servidor HTTP
 
-Socket.IO – Comunicação em tempo real
+Socket.IO – comunicação em tempo real
 
-MongoDB – Banco de dados NoSQL
+MongoDB – banco de dados NoSQL
 
-HTML + JavaScript – Interface do usuário
+HTML + JavaScript – interface do usuário
 
-Bootstrap – Estilização básica
+Bootstrap – estilização básica
 
 ## Instalação
 
